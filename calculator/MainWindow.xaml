@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:calculator"
         mc:Ignorable="d"
-        Title="Calculator" Height="600" Width="400">
+        Title="Calculator" Height="600" Width="400"
+        WindowStartupLocation="CenterScreen">
     <Border Padding="20">
         <DockPanel LastChildFill="True">
             
